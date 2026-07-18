@@ -8,10 +8,6 @@ Built with **Python, Scikit-learn, Pandas, and Streamlit**.
 
 ## 📸 Project Preview
 
-![App Screenshot](screenshot.png)
-
----
-
 ## ✨ Features
 
 * Real-time survival prediction
@@ -58,7 +54,7 @@ Titanic-Survival-Prediction/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Titanic-Survival-Prediction.git
+git clone https://github.com/ikrmrind/Titanic-Survival-Prediction-Machine-Learning-Web-App/tree/main
 ```
 
 ### 2️⃣ Move into the project folder
